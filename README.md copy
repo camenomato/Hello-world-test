@@ -1,2 +1,10 @@
 # Hello-world-test
 learning pls ignore
+Update the Readme File Please pull the changes.
+While pushing a new code changes you need to always take note of the following points.
+  1. Commit all the recent changes.
+    - git commit -m "<Message conveying the changes.>"
+  2. Pull the recent changes.
+      - git pull orign <name of the branch> --verbose/-v(in case of detailed output of the changes pulled.)
+  3. Push the changes.
+      - git push orign <name of the branch> --verbose/-v(in case of detailed output of the changes pushed.)
